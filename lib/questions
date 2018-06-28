@@ -9,7 +9,7 @@ Why do we need to set the require statement = const in the file file as opposed 
 Do we touch the bundle.js file once its been created?
 what about the bundle.js.map file?
 
-
+astroid constructor function
 can you explain the util file?
 what is POJO exactly?
 addEventListener?
